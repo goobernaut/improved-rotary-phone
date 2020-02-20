@@ -1,6 +1,6 @@
-<p class="text-center>
+
           <h2>Jerry Herbster</h2> 
-          jerry.herbster@gmail.com (208) 921-1702</p>
+          jerry.herbster@gmail.com (208) 921-1702
 
 ### Experience
 
