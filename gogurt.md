@@ -17,6 +17,8 @@ _Test Production Operator_
 Tested and sorted memory products for specfic performance and reliability characterists.  Marked and packaged parts. Dispatched lots according to customer demand and dynamic capabilities.  Visually inspected parts and packaging for correct marks and labels, serviceablity and defects.
 
 2006 - 2008, Electronic Data Systems-Navy Marine Corps Intranet, Boise, ID  
-_Help Desk Analyst_  
+_Help Desk Analyst_ 
+Helped to troubleshoot and resolve hardware, software, and network issues.  Provided immediate assistance via telephone and remote desktop.  Escalated complex issues to local technicians or tier 2 technicians as necessary.  Supported Windows NT, 2000, and XP.  
+
 
 
