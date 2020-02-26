@@ -16,7 +16,7 @@ Assisted engineers to collect performance and characteristics data of memory pro
 _Test Production Operator_  
 Tested and sorted memory products for specfic performance and reliability characterists.  Marked and packaged parts. Dispatched lots according to customer demand and dynamic capabilities.  Visually inspected parts and packaging for correct marks and labels, serviceablity and defects.
 
-2006 - 2008, Electronic Data Systems-Navy Marine Corps Intranet, Boise, ID
+2006 - 2008, Electronic Data Systems-Navy Marine Corps Intranet, Boise, ID  
 _Help Desk Analyst_
 
 
