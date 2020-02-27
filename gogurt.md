@@ -1,8 +1,8 @@
 
-## Jerry Herbster 
+### Jerry Herbster 
 jerry.herbster@gmail.com (208) 921-1702
 
-## Experience
+#### Experience
 
 2018 - Present, Quality Logic, Boise, ID  
 _Quality Assurance Technician_  
