@@ -24,7 +24,15 @@ Jun 1999 - Nov 2004, AT&T Enhanced Network Services, San Diego, CA
 _Project Manager_  
 Managed Automatic Call Distribution and Call Management System for the Network Operations Center.  Programmed and debugged call vectors to customize and optimized call flows.  Organzied and chaired a logical security team.  Prepared AT&T Enhanced Network Services provisioning center, NOC, and 13 data denters for favorable SAS-70 opinion letters.  Coordinated the relocation of the Network Operations Center and adminstrative staff without service interruption.  Supervised facility maintenance and shipping/receiving personnel.  
 
-1999
+Feb 1999 - Jun 1999, Litton PRC, San Diego, CA  
+_Jr. Network Administrator_  
+Supported a 50 user NT network for the Navy Health Support Office in San Diego, CA. Administered email services and provided deskside support.
 
+May 1990 - May 1998, U.S. Army  
+_Intelligence Analyst_  
+Supervised, performed, and coordinated collection management, analysis, processing, and dissemination of strategic and tactical intelligence.  Supervised a 4 person cell that provided intelligence support command, staff, and special forces operational detachments.  Deployed classified networks in tactical and garrison environments.  
 
+#### Education
+U.S. Army Intelligence Center and School, Intelligence Analysis Course, Ft. Huachuca, AZ  
+Coleman College, Computer Applications and Netorks Certificate, La Mesa, CA
 
