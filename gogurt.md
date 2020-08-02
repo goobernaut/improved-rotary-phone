@@ -30,7 +30,7 @@ Supported a 50 user NT network for the Navy Health Support Office in San Diego, 
 
 May 1990 - May 1998, U.S. Army  
 _Intelligence Analyst_  
-Supervised, performed, and coordinated collection management, analysis, processing, and dissemination of strategic and tactical intelligence.  Supervised a 4 person cell that provided intelligence support command, staff, and special forces operational detachments.  Deployed classified networks in tactical and garrison environments.  
+Supervised, performed, and coordinated collection management, analysis, processing, and dissemination of strategic and tactical intelligence.  Supervised a small team that provided intelligence support to command, staff, and special forces operational detachments.  Deployed classified networks in tactical and garrison environments.  
 
 #### Education
 U.S. Army Intelligence Center and School, Intelligence Analysis Course, Ft. Huachuca, AZ  
